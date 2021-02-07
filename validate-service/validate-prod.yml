@@ -1,0 +1,6 @@
+room:
+ beds:
+  min: 1
+  max: 2
+ price:
+  discount: 2
